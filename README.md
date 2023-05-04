@@ -2,6 +2,7 @@
 
 
 Getting Started
+
 To run this app, follow these steps:
 
 1. Clone this repository to your local machine.
@@ -9,6 +10,7 @@ To run this app, follow these steps:
 3. Build and run the project on an Android device or emulator.
 
 Contributing
+
 We welcome contributions to this project! If you would like to contribute, please follow these steps:
 
 1. Fork this repository.
